@@ -1,4 +1,4 @@
-### Kawshik Kumar :man_technologist:
+### :lotus_position_man: Kawshik Kumar
 
 <!--
 **KawshikKumar/KawshikKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
