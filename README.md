@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋, I go by the name Kawshik Kumar</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/kawshik_kmr" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/kawshik_kmr?logo=twitter&style=for-the-badge" alt="https://twitter.com/kawshik_kmr" /></a> </p>
-
 - 📚 I've published multiple research papers on AI and dived into the fascinating world of **Machine Learning.**
 
 - 🤝 I'm open to collaboration opportunities **in AI/ML-related fields.**
@@ -12,10 +10,6 @@
 - 💼 My goal is to work in a role related to **applied AI/ML preferably Bioinformatics**
 
 - 📫 you can reach me at **kawshik.gsh@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dNJuZZo7tS2U0eQEpl5SoNZX3cc8Sg94/view?usp=share_link](https://drive.google.com/file/d/1dNJuZZo7tS2U0eQEpl5SoNZX3cc8Sg94/view?usp=share_link)
-
-- ⚡ Im also really into **powerlifting 💪🏋️‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
