@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/xiaowuc2/ChatGPT-Python-Applications/raw/main/resource/10lines3.gif)]
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/024/538/828/original/pixel-jeff-clipc-s.gif?1582740521)]
 <h1 align="center">Hey there 👋, Im Kawshik Kumar</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
 
