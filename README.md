@@ -1,10 +1,10 @@
-![MasterHead](https://github.com/xiaowuc2/ChatGPT-Python-Applications/raw/main/resource/10lines3.gif)
+[![MasterHead](https://github.com/xiaowuc2/ChatGPT-Python-Applications/raw/main/resource/10lines3.gif)]
 <h1 align="center">Hey there 👋, Im Kawshik Kumar</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif">
 
-- 📚 I've published multiple research papers on AI and dived into the fascinating world of **Machine Learning.**
+- 📚 I've published multiple research papers on the fascinating world of **AI and Machine Learning.**
 
 - 🤝 I'm open to collaboration opportunities **in AI/ML-related fields.**
 
