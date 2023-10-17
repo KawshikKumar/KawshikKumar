@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I go by the name Kawshik Kumar</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif">
 
 - 📚 I've published multiple research papers on AI and dived into the fascinating world of **Machine Learning.**
 
