@@ -1,4 +1,4 @@
-![MasterHead](https://38.media.tumblr.com/9cff938216133142406c9f61970acd2f/tumblr_njjcz1NLp51rnbw6mo1_540.gif)
+![MasterHead](https://i.pinimg.com/originals/48/ee/98/48ee98746abae9e733f96f6a2cdb3c4a.gif)
 <h1 align="center">Hey there 👋, Im Kawshik Kumar</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
 
