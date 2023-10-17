@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif">
 
-- 📚 I like projects on applied **rtificial Intelligence**
+- 📚 I like projects on applied **Artificial Intelligence**
 
 - 🔬 I am actively exploring **Bioinformatics.**
 
