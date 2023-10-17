@@ -1,27 +1,23 @@
-<p align="center">
-  <img src="https://64.media.tumblr.com/fc671558a154e20251fc7e75ccba938a/tumblr_p29irjTxms1wvcbfqo1_1280.gif" alt="MasterHead">
-</p>
+<!--<p align="center">
+  <img src="" alt="MasterHead">
+</p>-->
 
 <h1 align="center">Hey there 👋, Im Kawshik Kumar</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif">
 
-- 📚 I've published multiple research papers on the fascinating world of **AI and Machine Learning.**
+- 📚 I like projects on applied **rtificial Intelligence**
 
-- 🤝 I'm open to collaboration opportunities **in AI/ML-related fields.**
-
-- 🔬 Bioinformatics holds a special place in my interests, **and I'm actively exploring this field.**
-
-- 💼 My goal is to work in a role related to **applied AI/ML preferably Bioinformatics**
+- 🔬 I am actively exploring **Bioinformatics.**
 
 - 📫 you can reach me at **kawshik.gsh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/kawshik_kmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kawshik_kmr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kawshik-kumar-bb671b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kawshik-kumar-bb671b226/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kawshikkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kawshikkumar" height="30" width="40" /></a>
+<a href="https://twitter.com/kawshik_kmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kawshik_kmr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kawshik-kumar-bb671b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kawshik-kumar-bb671b226/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/kawshikkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kawshikkumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
