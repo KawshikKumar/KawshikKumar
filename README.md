@@ -1,4 +1,7 @@
-![MasterHead](https://i.pinimg.com/originals/48/ee/98/48ee98746abae9e733f96f6a2cdb3c4a.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/48/ee/98/48ee98746abae9e733f96f6a2cdb3c4a.gif" alt="MasterHead">
+</p>
+
 <h1 align="center">Hey there 👋, Im Kawshik Kumar</h1>
 <h3 align="center">An aspiring Machine Learning Engineer</h3>
 
