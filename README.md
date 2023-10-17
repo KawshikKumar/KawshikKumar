@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/48/ee/98/48ee98746abae9e733f96f6a2cdb3c4a.gif" alt="MasterHead">
+  <img src="https://64.media.tumblr.com/fc671558a154e20251fc7e75ccba938a/tumblr_p29irjTxms1wvcbfqo1_1280.gif" alt="MasterHead">
 </p>
 
 <h1 align="center">Hey there 👋, Im Kawshik Kumar</h1>
