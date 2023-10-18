@@ -8,9 +8,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif">
 
+- 🎓 Completed **CSE** from **Brac University**
+
 - 📚 I like projects on applied **Artificial Intelligence**
 
-- 🔬 I am actively exploring **Bioinformatics.**
+- 🔬 I am actively exploring **Reinforcement Learning.**
 
 - 📫 you can reach me at **kawshik.gsh@gmail.com**
 
