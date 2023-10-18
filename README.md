@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://bisqwit.iki.fi/jutut/kuvat/animmerger/method-sl30.gif">
+  <img src="https://bisqwit.iki.fi/jutut/kuvat/animmerger/method-sl30.gif" width="100%">
 </p>
+
 
 <h1 align="center">Hey there 👋, Im Kawshik Kumar</h1>
 <h3 align="center">An Aspiring Machine Learning Engineer</h3>
