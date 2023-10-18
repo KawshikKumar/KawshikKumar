@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="100%">
+  <img src="https://bisqwit.iki.fi/jutut/kuvat/animmerger/method-sl30.gif" width="100%">
 </p>
 
 
