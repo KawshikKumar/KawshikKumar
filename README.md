@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pfps.gg/assets/banners/7718-wumpus-in-space.gif">
+  <img src="https://bisqwit.iki.fi/jutut/kuvat/animmerger/method-sl30.gif">
 </p>
 
 <h1 align="center">Hey there 👋, Im Kawshik Kumar</h1>
