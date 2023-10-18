@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://bisqwit.iki.fi/jutut/kuvat/animmerger/method-sl30.gif" width="100%">
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kawshik+Kumar!;" />
+</h1>
 
-
-<h1 align="center">Hey there 👋, Im Kawshik Kumar</h1>
 <h3 align="center">An Aspiring Machine Learning Engineer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif">
