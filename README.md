@@ -1,6 +1,6 @@
-<!--<p align="center">
-  <img src="" alt="MasterHead">
-</p>-->
+<p align="center">
+  <img src="https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif">
+</p>
 
 <h1 align="center">Hey there 👋, Im Kawshik Kumar</h1>
 <h3 align="center">An Aspiring Machine Learning Engineer</h3>
