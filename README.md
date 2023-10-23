@@ -4,7 +4,7 @@
 
 <h3 align="center">An Aspiring Machine Learning Engineer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif"> -->
 
 - 🎓 Completed **CSE** from **Brac University**
 
