@@ -36,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bash,java,html,css,vscode,github,raspberrypi,cpp,git,unity" />
+    <img src="https://skillicons.dev/icons?i=arduino,bash,java,html,css,vscode,github,raspberrypi,cpp,git,unity" />
     <img src="https://skillicons.dev/icons?i=tensorflow,python,regex,pytorch,cs,linux,mongodb,c,php,nodejs,mysql,javascript" /><br>
 </div>
 
