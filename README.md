@@ -14,7 +14,7 @@
 
 📚 I like projects on applied **Artificial Intelligence**
 
-🔬 I am actively exploring **Reinforcement Learning.**
+🔬 I am actively exploring **Reinforcement Learning**
 
  </div>
 
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bash,java,html,css,vscode,github,raspberrypi,cpp,git,unity" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,python,regex,pytorch,express,linux,mongodb,c,php,nodejs,mysql,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,python,regex,pytorch,cs,linux,mongodb,c,php,nodejs,mysql,javascript" /><br>
 </div>
 
 <br/>
