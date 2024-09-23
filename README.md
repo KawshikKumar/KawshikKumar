@@ -9,7 +9,9 @@
 <!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif"> -->
 
 <div align="center">
+    
 🎓 Gradute Student of **Applied Computer Science** at **Concordia University, Canada**
+    
 🎓 Completed **CSE** from **Brac University**
 
 📚 I like projects on applied **Artificial Intelligence**
